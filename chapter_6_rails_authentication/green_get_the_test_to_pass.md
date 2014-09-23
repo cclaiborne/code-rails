@@ -2,7 +2,7 @@
 
 GREEN: Now work to get the test passing. Time to play in the sandbox and tackle this one without the Path. Try hard!
 
-Hints: 
+Hints:
 - <span style="color: white">
 Your app layout should have a 'Sign Out' link if current_user.present? and otherwise should have a 'Sign Up' and a 'Sign In' link. How do you find the proper path helpers?
 </span>
